@@ -1,0 +1,34 @@
+colors_enabled = yes
+#empty_tag_color = cyan
+#color1 = white
+#color2 = green
+
+#alternative_ui_separator_color = black
+active_column_color = blue
+window_border_color = green
+active_window_border = black
+
+progressbar_look = "─╼ "
+progressbar_color = black
+progressbar_elapsed_color = blue
+
+main_window_color = white
+main_window_highlight_color = default
+statusbar_color = default
+volume_color = yellow
+state_line_color = default
+state_flags_color = default
+header_window_color = yellow
+
+discard_colors_if_item_is_selected = yes
+
+header_visibility = yes
+statusbar_visibility = yes
+titles_visibility = yes
+
+song_columns_list_format = "(10)[white]{l} (30)[blue]{a} (30)[green]{b} (30)[magenta]{t}"
+
+user_interface = "classic"
+
+browser_sort_mode = "name"
+browser_sort_format = "{%a - }{%t}|{%f} {(%l)}"

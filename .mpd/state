@@ -1,0 +1,28 @@
+sw_volume: 100
+audio_device_state:1:Sound Card
+state: stop
+current: 4
+random: 0
+repeat: 1
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:Actress/R.I.P/01 R.I.P..mp3
+1:Actress/R.I.P/02 Ascending.mp3
+2:Actress/R.I.P/03 Holy Water.mp3
+3:Actress/R.I.P/04 Marble Plexus.mp3
+4:Actress/R.I.P/05 Uriel_s Black Harp.mp3
+5:Actress/R.I.P/06 Jardin.mp3
+6:Actress/R.I.P/07 Serpent.mp3
+7:Actress/R.I.P/08 Shadow From Tartarus.mp3
+8:Actress/R.I.P/09 Tree Of Knowledge.mp3
+9:Actress/R.I.P/10 Raven.mp3
+10:Actress/R.I.P/11 Glint.mp3
+11:Actress/R.I.P/12 Caves Of Paradise.mp3
+12:Actress/R.I.P/13 The Lord_s Graffiti.mp3
+13:Actress/R.I.P/14 N.E.W..mp3
+14:Actress/R.I.P/15 IWAAD.mp3
+playlist_end
